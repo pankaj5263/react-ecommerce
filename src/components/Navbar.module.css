@@ -1,0 +1,33 @@
+.headerContainer{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #FFCC70;
+}
+
+
+.headerContainer {
+    background-color: #FFB4B4;
+  }
+
+  .navMenu{
+    background-color: #FFB4B4;
+  }
+  
+  .navItem {
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
+  .badge {
+    font-size: 14px;
+    margin-left: 4px;
+  }
+  
+  .cartIcon {
+    font-size: 18px;
+  }
+  

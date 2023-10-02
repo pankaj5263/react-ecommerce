@@ -1,0 +1,9 @@
+.cart-container{
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid grey;
+    box-shadow: 5px 5px #888888;
+    margin-top: "15%";
+}
